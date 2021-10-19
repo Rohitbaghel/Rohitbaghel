@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RohittBaghel01
 - 👀 I’m interested in Learning new Languages and Helping Other developers
-- 🌱 I’m currently learning javascript.
+- 🌱 I’m currently learning Javascript,MongoDB,React,Node.js,HTML,CSS.
 - 💞️ I’m looking to collaborate on good projects that are build by using html,css and Javascript
 - 📫 How to reach me by instagram handle @official_Gadariya01 ...
 
