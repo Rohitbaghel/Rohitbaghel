@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Baghel</h1>
 <h3 align="center">A passionate full stack [MERN] web developer...</h3>
 
-<p align="left"> <a href="https://github.com/Rohitbaghel"><img src="https://github-profile-trophy.vercel.app/?username=RohitBaghel01" alt="Rohit Baghel" /></a> </p>
+<p align="left"> <a href="https://github.com/Rohitbaghel"><img src="https://github-profile-trophy.vercel.app/?username=Rohitbaghel" alt="Rohit Baghel" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
