@@ -36,10 +36,11 @@ Currently I am a student at Masai School.</p>
 <br/>
 
 <p align="center">
-    <a href="https://github-readme-stats.vercel.app/api/top-langs?username=Rohitbaghel&show_icons=true&locale=en&layout=compact">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rohitbaghel streak" src="https://github-readme-stats.vercel.app/api?username=Rohitbaghel&show_icons=true&locale=en"/>
+    <a href="https://github.com/Rohitbaghel/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="dharmeshrao's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohitbaghel&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+
 
 ## 📊 My Github Stats
 
