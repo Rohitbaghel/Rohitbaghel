@@ -9,7 +9,7 @@
 When I am not smashing the keyboard, you will find me playing pubg, reading or watching netflix.
 Currently I am a student at Masai School.</p>
 
-- 👨‍💻 Check my projects and portfolio **[RohitBaghel](https://portfolio-alpha-one-55.vercel.app)**
+- 👨‍💻 Check my projects and portfolio **[RohitBaghel](https://portfolio-rohit-baghel.vercel.app/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
