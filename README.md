@@ -5,7 +5,7 @@
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
 
- <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> <p>👋 Hi there! I'm [Your Name], a passionate full-stack developer with over 3 years of hands-on experience in the world of web development. My expertise revolves around creating seamless and engaging user experiences on the front-end while ensuring robust functionality on the back-end.
+ <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> <p>👋 Hi there! I'm Rohit Baghel a passionate full-stack developer with over 3 years of hands-on experience in the world of web development. My expertise revolves around creating seamless and engaging user experiences on the front-end while ensuring robust functionality on the back-end.
 
 🚀 I specialize in the MERN (MongoDB, Express.js, React, Node.js) stack, which empowers me to build dynamic and interactive web applications that leave a lasting impression. With a keen eye for design and a focus on user-centric development, I strive to craft interfaces that not only look great but also deliver exceptional performance.
 
