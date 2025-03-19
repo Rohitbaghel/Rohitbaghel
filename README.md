@@ -57,7 +57,7 @@
 <br/>
 <br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rohitbaghel&bg_color=1d1b1c&color=e5e0e5&line=e3e1e3&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rohitbaghel&bg_color=1d1d1d&color=cfcfcf&line=cecece&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 <br/>
